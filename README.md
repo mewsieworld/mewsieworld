@@ -29,7 +29,15 @@
 
 ###
 
-<h2 align="left">🔥   The Real Show</h3>
+<h2>My name is Mewsie</h2>
+<h3>I'm a crazy vibeprogramming girl with an undying passion for my computer, my friends, and Trickster Online.</h3>
+<h4>I'm easily misunderstood, but my closest friends don't mind.</h4>
+<h3>I hope to be a positive and contributatory force in this field with the time and energy I have to offer.</h3>
+<h4>Even if not, I hope we make really cool memories along the way!</h4>
+
+###
+
+<h2 align="left">The Real Show</h3>
 
 ###
 
@@ -55,7 +63,7 @@
 ###
 
 <br clear="both">
-
+<h2>I like music :3c</h2>
 <div align="center">
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bayleegirl1">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bayleegirl1" alt="Data Card for Spotify">
