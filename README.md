@@ -40,7 +40,7 @@
 <h2>My Notable Contributions</h2>
 
 - [Mega Repo of Trickster Guides + Files](https://github.com/mewsieworld/TO-Fuse-Tools-And-Guides)
-- [Fashion Editor](https://github.com/CoraTO-Server/Fashion-Previewer) 
+- [Trickster Fashion Editor](https://github.com/CoraTO-Server/Fashion-Previewer) 
 - [Freeware Fuses for Trickster](https://github.com/mewsieworld/HappysFuses) 
 - [Pixelart Web-based Program](https://github.com/CoraTO-Server/Spooksies-Stinky-Sprite-Tool)
 
