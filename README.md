@@ -37,6 +37,23 @@
 
 ###
 
+<h2>My Notable Contributions</h2>
+
+- [Mega Repo of Trickster Guides + Files](https://github.com/mewsieworld/TO-Fuse-Tools-And-Guides)
+- [Fashion Editor](https://github.com/CoraTO-Server/Fashion-Previewer) 
+- [Freeware Fuses for Trickster](https://github.com/mewsieworld/HappysFuses) 
+- [Pixelart Web-based Program](https://github.com/CoraTO-Server/Spooksies-Stinky-Sprite-Tool)
+
+
+##
+
+- [My Main Site](https://mewsie.world/)
+- [CoraTO Server](https://cora-to.com/) ([Join our Discord!](discord.gg/coraTO))
+- [CoraTO Wiki](https://mewsie.world/CoraTOWiki/index.php/Main_Page)
+- [Trickster Dev Wiki](https://mewsie.world/TricksterDevWiki/index.php/Main_Page)
+
+###
+
 <h2 align="left">The Real Show</h3>
 
 ###
